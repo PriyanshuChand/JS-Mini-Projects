@@ -1,2 +1,2 @@
 # JS-Mini-Projects
-This repository contains beiginner level basic javascript projects. All the project here were made by me not follwing any tutorial or copy pasting code. Some projects are those which I have earlier made by following turorials but here I have made them with my previous experience and knowledge. 
+This repository features beginner-level basic JavaScript projects. All projects presented here were created independently by me, without following any tutorials or copying code. Some projects are versions of work I previously completed by following tutorials, but in this case, they were recreated from memory and past experience, demonstrating my understanding and application of JavaScript.
